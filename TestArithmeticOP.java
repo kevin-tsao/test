@@ -8,7 +8,7 @@ public class TestArithmeticOP {
 >>>>>>> .merge_file_a13612
 	public static void main(String[] args) {
 		int num1 = 5, num2 = 2;
-		double numD = 9.0;
+		double numD = 1.0;
 
 		System.out.println(num1 + num2);
 		System.out.println(num1 - num2);
